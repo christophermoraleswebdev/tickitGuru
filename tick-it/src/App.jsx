@@ -11,7 +11,7 @@ function App() {
     <div>
       <CustomNav />
       <Main />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   )
 }

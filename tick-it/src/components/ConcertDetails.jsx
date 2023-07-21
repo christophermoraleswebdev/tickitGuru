@@ -18,7 +18,7 @@ const ConcertDetails = (props) => {
   return (
     <div className='container'>
       <h1>{event.name}</h1>
-      <Card>
+      <Card >
         <Card.Img 
           variant="top" 
           src={event.photo_url} 
