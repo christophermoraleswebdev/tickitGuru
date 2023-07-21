@@ -2,16 +2,6 @@
   margin: 0;
   padding: 0;
 }
-body {
-  background-image: url('https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  
-}
-h1 {
-  color: white !important;
-}
 .container {
   text-align: center;
   flex-direction: column;
